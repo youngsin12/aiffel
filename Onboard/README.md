@@ -6,6 +6,7 @@ RoboCat
 
 ## 소제목
 : A self-improving robotic agent
+---
 
 ### 기사내용 요약(구글 바드 이용)
 
