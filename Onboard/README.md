@@ -2,11 +2,11 @@
 
 ---
 # 제목
-# RoboCat
+RoboCat
 ---
 
 ## 소제목
-## : A self-improving robotic agent
+: A self-improving robotic agent
 
 ### 기사내용 요약
 Google DeepMind가 로봇팔을 통해 여러 작업을 수행하며 스스로 학습하는 RoboCat을 소개함.
