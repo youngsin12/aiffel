@@ -1,11 +1,8 @@
 ### 리뷰어(push한 사람): 황인준
 
 ---
-# 제목
-RoboCat
-
-## 소제목
-: A self-improving robotic agent
+# Robocat
+## : A self-improving robotic agent
 ---
 
 ### 기사내용 요약(구글 바드 이용)
